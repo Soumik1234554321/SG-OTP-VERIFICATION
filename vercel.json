@@ -11,10 +11,5 @@
       "src": "/(.*)",
       "dest": "app.py"
     }
-  ],
-  "env": {
-    "GMAIL_EMAIL": "sgexploits@gmail.com",
-    "GMAIL_APP_PASSWORD": "clraykmizipllrgs",
-    "OTP_EXPIRY_MINUTES": "5"
-  }
+  ]
 }
